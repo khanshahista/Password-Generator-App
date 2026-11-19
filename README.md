@@ -1,23 +1,93 @@
-<<<<<<< HEAD
-# Password Generator App
+# 🔐 Password Generator App
 
-A React-based Password Generator App.
+A responsive Password Generator application built using **React.js** that allows users to generate customizable passwords by selecting different character types.
 
-## Features
+## 🚀 Features
 
-- Generate random passwords
-- Uppercase letters
-- Lowercase letters
-- Numbers
-- Special symbols
-- Custom password length
-- Copy password functionality
+- Generate random passwords instantly.
+- Include uppercase letters (A–Z).
+- Include lowercase letters (a–z).
+- Include numbers (0–9).
+- Include special symbols.
+- Customize password generation using options.
+- Simple and user-friendly interface.
+- Responsive design.
 
-## Technologies
+## 🛠️ Technologies Used
 
 - React.js
-- JavaScript
-- CSS
-=======
-# Password-Generator-App
->>>>>>> 1353c129aa4f20e2c13f0474336f80cd7a0b0a14
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- React Hooks (`useState`)
+
+## 📸 Project Preview
+
+_Add your application screenshot here._
+
+```md
+![Password Generator App](./public/screenshot.png)
+```
+
+## 📂 Installation & Setup
+
+Follow these steps to run the project locally.
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/khanshahista/Password-Generator-App.git
+```
+
+**2. Navigate to the project directory**
+
+```bash
+cd Password-Generator-App
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
+
+```bash
+npm start
+```
+
+The application will run at:
+
+`http://localhost:3000`
+
+## 📁 Project Structure
+
+```text
+Password-Generator-App/
+│
+├── public/
+├── src/
+│   ├── data/
+│   │   └── PassChar.jsx
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
+│
+├── package.json
+└── README.md
+```
+
+## 🎯 Project Objective
+
+The main objective of this project is to create a simple and efficient password generation tool that helps users generate random passwords using customizable character combinations.
+
+## 👨‍💻 Author
+
+**khanshahista**
+
+GitHub: [@khanshahista](https://github.com/khanshahista)
+
+## 📄 License
+
+This project is open-source and available for learning and educational purposes.
