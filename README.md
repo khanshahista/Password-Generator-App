@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Password Generator App
 
 A React-based Password Generator App.
@@ -17,3 +18,6 @@ A React-based Password Generator App.
 - React.js
 - JavaScript
 - CSS
+=======
+# Password-Generator-App
+>>>>>>> 1353c129aa4f20e2c13f0474336f80cd7a0b0a14
